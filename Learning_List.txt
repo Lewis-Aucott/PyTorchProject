@@ -1,0 +1,10 @@
+Starting off with this list:
+
+https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+
+
+git init
+git remote -v
+git add filename.py
+git commit -m "label for files"
+git push origin master
